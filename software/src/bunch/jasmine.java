@@ -2,5 +2,8 @@ package bunch;
 
 public class jasmine {
 //write your code here
-System.out.println("Jasmine");
+  public static void main(String args[])
+  {
+	  System.out.println("Jasmine Class");
+  }
 }
